@@ -45,20 +45,7 @@ Tech, for me, is creativity + logic working together.
 - Git & GitHub  
 - Figma  
 - HTML & CSS  
-- Heroku deployment  
-
-
----
-
-## 🌸 My GitHub Journey
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&hide_border=true&title_color=E75480&icon_color=E75480&text_color=444&bg_color=fff5f8"/>
-
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&hide_border=true&ring=E75480&fire=E75480&background=fff5f8"/>
-
-</div>
+- Heroku deployment
 
 
 🌸 Still learning. Still growing. Still building. 🌸
