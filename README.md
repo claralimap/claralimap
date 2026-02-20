@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
 
-# Clara Lima
+# Hi, Im Clara Lima
 
 Full Stack Developer in progress  
 Learning, building, and evolving every day 🤍
@@ -16,8 +16,6 @@ Learning, building, and evolving every day 🤍
 ## 🌷 About Me
 
 I'm currently learning and building my path as a full-stack developer, with a growing interest in Artificial Intelligence.
-
-I enjoy understanding how things work behind the scenes — from designing interfaces to structuring databases and connecting systems.
 
 Right now, I'm focused on improving my technical foundation, building real projects, and becoming more confident with every commit I push.
 
