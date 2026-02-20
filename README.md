@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
-
-# Hi, Im Clara Lima
+# Hi, I'm Clara Lima
 
 Full Stack Developer in progress  
 Learning, building, and evolving every day 🤍
