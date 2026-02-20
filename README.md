@@ -47,19 +47,6 @@ Tech, for me, is creativity + logic working together.
 - HTML & CSS  
 - Heroku deployment  
 
----
-
-## 🌼 Featured Project
-
-<div align="center">
-
-### Profile Page (HTML & CSS)
-
-<a href="https://github.com/SEUUSERNAME/profile-page">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=profile-page&title_color=E75480&text_color=444&icon_color=E75480&bg_color=fff5f8&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
@@ -73,19 +60,6 @@ Tech, for me, is creativity + logic working together.
 
 </div>
 
----
-
-## 🌸 Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&style=for-the-badge&color=E75480"/>
-
-</div>
-
----
-
-<div align="center">
 
 🌸 Still learning. Still growing. Still building. 🌸
 
