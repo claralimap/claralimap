@@ -66,22 +66,19 @@ AI assistant project
 - Deployment (Vercel / Heroku)  
 
 ---
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/maria-clara-lima-sato-3796b921b/">
+<a href="https://www.linkedin.com/in/maria-clara-lima-sato-3796b921b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Clara%20Lima-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-</div>
-<a href="https:mariaclarasato.com.br">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-pink?style=for-the-badge"/>
+<a href="https://mariaclarasato.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-pink?style=for-the-badge" />
 </a>
----
 
-<div align="center">
+</div>
 
 ✨ Building real projects and looking for my next opportunity ✨  
 
