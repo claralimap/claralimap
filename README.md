@@ -71,16 +71,18 @@ AI assistant project
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/maria-clara-lima-sato-3796b921b/">
   <img src="https://img.shields.io/badge/LinkedIn-Clara%20Lima-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
-
+<a href="https:mariaclarasato.com.br">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-pink?style=for-the-badge"/>
+</a>
 ---
 
 <div align="center">
 
-✨ Still learning. Still growing. Still building ✨  
+✨ Building real projects and looking for my next opportunity ✨  
 
 </div>
