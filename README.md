@@ -48,7 +48,12 @@ AI assistant project
 👉 https://github.com/Ineskci/ai_chloe  
 
 ---
+### 📊 Panorama Emprego RJ  
+Data analysis project about the job market in Rio de Janeiro  
+💡 Contribution: data analysis, insights generation and visualization  
+👉 https://github.com/claralimap/panorama-emprego-rj  
 
+---
 ## 🌸 Tech Stack
 
 <div align="center">
