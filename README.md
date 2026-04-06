@@ -71,12 +71,11 @@ AI assistant project
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=claralimap&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=claralimap&show_icons=true&theme=radical" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claralimap&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claralimap&layout=compact&theme=radical" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
